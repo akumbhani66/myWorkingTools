@@ -4,7 +4,6 @@
 
 * my .zshrc
 
-Commiting to test for slack-integration.
 
 
 
