@@ -1,4 +1,21 @@
 {
+	"added_words":
+	[
+		"satoshi",
+		"admin",
+		"bitcoin",
+		"blockchain",
+		"Blockcypher",
+		"gmail",
+		"localhost",
+		"http",
+		"blockcypher",
+		"",
+		"username",
+		"cashout",
+		"ethereum",
+		""
+	],
 	"bold_folder_labels": true,
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_minimap_border": true,
@@ -21,7 +38,6 @@
 	[
 		80
 	],
-
 	"spell_check": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": false,
