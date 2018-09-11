@@ -1,1 +1,2 @@
 curl -k -L https://npmjs.org/install.sh | sh
+// Not working anymore. Required node to be install :(.
