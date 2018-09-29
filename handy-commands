@@ -1,0 +1,2 @@
+// Copy file between system via terminal.
+scp remote_user@remote_host:/path/to/remote/file /path/to/local/file
